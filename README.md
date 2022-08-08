@@ -1,2 +1,2 @@
 # CPI_analysis
-in-depth CPI(costomer price index) analysis of open government data 
+in-depth CPI(customer price index) analysis of open government data 
